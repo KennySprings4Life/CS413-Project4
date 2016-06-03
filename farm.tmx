@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="6" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset1" tilewidth="16" tileheight="16" spacing="2" margin="2" tilecount="24" columns="4">
+  <image source="tileset1.png" width="74" height="110"/>
+  <tile id="1">
+   <properties>
+    <property name="name" value="plot"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="name" value="brick"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="name" value="brick"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="name" value="door"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="name" value="brick"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="name" value="brick"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="name" value="brick"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="name" value="brick"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="25" name="tileset2" tilewidth="16" tileheight="16" spacing="2" margin="2" tilecount="24" columns="4">
+  <image source="tileset2.png" width="74" height="110"/>
+ </tileset>
+ <layer name="Dirt" width="30" height="6">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+</data>
+ </layer>
+ <layer name="Over" width="30" height="6">
+  <data encoding="csv">
+20,17,17,17,17,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+22,19,18,18,19,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer name="Farmland" width="30" height="6">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,0,0,0,4,4,4,4,4,0,0,0,2,4,
+0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,0,0,0,0,0,4,4,4,4,0,0,0,0,2,4,
+0,0,0,0,0,0,0,0,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,
+4,2,2,2,2,2,4,0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,0,0,0,0,0,0,4,4,
+4,2,2,2,2,2,4,4,0,0,0,0,0,4,4,4,4,4,4,4,4,4,0,0,0,0,0,0,4,4
+</data>
+ </layer>
+</map>

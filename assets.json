@@ -1,0 +1,147 @@
+{"frames": {
+
+"stillGoblin-back.png":
+{
+	"frame": {"x":0,"y":0,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"stillGoblin-front.png":
+{
+	"frame": {"x":0,"y":28,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"stillGoblin-side.png":
+{
+	"frame": {"x":0,"y":56,"w":14,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":28},
+	"sourceSize": {"w":14,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin-back1.png":
+{
+	"frame": {"x":0,"y":84,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin-back2.png":
+{
+	"frame": {"x":0,"y":112,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin-back3.png":
+{
+	"frame": {"x":0,"y":140,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin-back4.png":
+{
+	"frame": {"x":0,"y":168,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin-front1.png":
+{
+	"frame": {"x":0,"y":196,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin-front2.png":
+{
+	"frame": {"x":0,"y":224,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin-front3.png":
+{
+	"frame": {"x":0,"y":252,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin-front4.png":
+{
+	"frame": {"x":0,"y":280,"w":13,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":28},
+	"sourceSize": {"w":13,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin1.png":
+{
+	"frame": {"x":0,"y":308,"w":14,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":28},
+	"sourceSize": {"w":14,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin2.png":
+{
+	"frame": {"x":0,"y":336,"w":14,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":28},
+	"sourceSize": {"w":14,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin3.png":
+{
+	"frame": {"x":0,"y":364,"w":14,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":28},
+	"sourceSize": {"w":14,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"walkingGoblin4.png":
+{
+	"frame": {"x":0,"y":392,"w":14,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":28},
+	"sourceSize": {"w":14,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "assets.png",
+	"format": "RGBA8888",
+	"size": {"w":14,"h":420},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fd108b7f46dbc739da3c9c2f56573f21:e54ebea47cfd994660ecaecec95c4731:a759b6bbc8381ac9c472b28f589ad0d6$"
+}
+}
